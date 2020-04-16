@@ -63,4 +63,4 @@ pthread_t t3;
         pthread_join(t3,NULL);
 	//printf("\n done and my value is %d",n);
 
-}
+} 
